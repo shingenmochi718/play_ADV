@@ -12,7 +12,7 @@ title,bland,year
 君と歩んだ偽物,トリミノそふと,2020
 ノラと皇女と野良猫ハート,HARUKAZE,2016
 ノラと皇女と野良猫ハート2,HARUKAZE,2017
-マルコと銀河竜,TOKYOTOON,2020)
+マルコと銀河竜,TOKYOTOON,2020
 抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか?,Qruppo,2018
 抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか? 2,Qruppo,2019
 抜きゲーみたいな島に住んでいる貧乳はどうすりゃいいですか？ 2スス子ルートアペンド,Qruppo,2020
@@ -85,5 +85,7 @@ STEINS;GATE0,5pb.,2015
 WORLD END ECONOMiCA,Spicy Tails,2013
 Kanon,Key,1999
 AIR,Key,2000
+リトルバスターズ!,key,2007
+リトルバスターズ! エクスタシー,key,2008
 Summer Pockets,Key,2018
 ファタモルガーナの館,Novectacle,2012
